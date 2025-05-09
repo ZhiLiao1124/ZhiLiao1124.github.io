@@ -1,0 +1,24 @@
+baseURL = 'https://Zhiliao1124.github.io/'  # 替换为你的GitHub用户名
+languageCode = 'en-us'
+title = 'zhiliao'
+theme = 'PaperMod'
+
+# 添加发布目录配置
+publishDir = "docs"  # 生成的静态文件会存到 docs 文件夹
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  defaultTheme = "auto"
+  mainSections = ["posts"]
+  comments = true  # 启用评论功能
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Student Life on zhiliao</title>
-    <link>https://Zhiliao1124.github.io/tags/student-life/</link>
+    <link>https://zhiliao1124.github.io/tags/student-life/</link>
     <description>Recent content in Student Life on zhiliao</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 May 2025 18:06:00 +0800</lastBuildDate>
-    <atom:link href="https://Zhiliao1124.github.io/tags/student-life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhiliao1124.github.io/tags/student-life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Balancing School and Hobbies: Is It Possible?</title>
-      <link>https://Zhiliao1124.github.io/posts/school_hobbies_balance_essay/</link>
+      <link>https://zhiliao1124.github.io/posts/school_hobbies_balance_essay/</link>
       <pubDate>Fri, 09 May 2025 18:06:00 +0800</pubDate>
-      <guid>https://Zhiliao1124.github.io/posts/school_hobbies_balance_essay/</guid>
+      <guid>https://zhiliao1124.github.io/posts/school_hobbies_balance_essay/</guid>
       <description>A practical guide for students on how to manage time effectively, balance academics, and stay focused.</description>
     </item>
     <item>
       <title>Mastering Time Management: A Student’s Guide to Academic Success</title>
-      <link>https://Zhiliao1124.github.io/posts/mastering-time-management/</link>
+      <link>https://zhiliao1124.github.io/posts/mastering-time-management/</link>
       <pubDate>Fri, 09 May 2025 18:06:00 +0800</pubDate>
-      <guid>https://Zhiliao1124.github.io/posts/mastering-time-management/</guid>
+      <guid>https://zhiliao1124.github.io/posts/mastering-time-management/</guid>
       <description>A practical guide for students on how to manage time effectively, balance academics, and stay focused.</description>
     </item>
   </channel>
